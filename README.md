@@ -52,6 +52,8 @@ Good luck!
 
 
 
+## Ths script used
+
 ``` R
 # set working directoyr
 setwd("C:/arun/coursera/DataScience/Getting_and_Cleaning_Data/UCI HAR Dataset")
